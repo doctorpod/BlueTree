@@ -1,0 +1,9 @@
+Section 1.2
+
+Section 1.2 description...
+
+----
+This is the footer.
+This title is 'Section 1.2'.
+Parent title is 'Section 1'.
+Root title is 'The Main Title'.
